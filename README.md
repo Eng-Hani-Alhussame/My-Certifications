@@ -1,3 +1,3 @@
 ## My Cisco Badge
 
-<img src="introduction-to-cybersecurity-badge.png" width="250">
+<img src="introduction-to-cybersecurity.png" width="250">
